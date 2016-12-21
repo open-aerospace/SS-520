@@ -11,6 +11,7 @@ before_install:
 
 install:
  - gem install --no-document jekyll
+ - gem install jekyll-scholar
 
 script:
  - make deploy
