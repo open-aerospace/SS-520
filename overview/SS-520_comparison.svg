@@ -2828,17 +2828,23 @@
          id="tspan10312">SLV</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Helvetica CE 55 Roman';-inkscape-font-specification:'Helvetica CE 55 Roman, Normal';text-align:center;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Helvetica CE 55 Roman';-inkscape-font-specification:'Helvetica CE 55 Roman, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="640"
        y="972.36218"
        id="text3812-50-4-3-0-4-5"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
-         id="tspan10306">1980</tspan><tspan
+         id="tspan9097"
+         x="640"
+         y="972.36218">1980</tspan><tspan
          sodipodi:role="line"
-         id="tspan10308">40 kg</tspan><tspan
+         x="640"
+         y="987.36218"
+         id="tspan9105">40 kg</tspan><tspan
          sodipodi:role="line"
-         id="tspan10310">17 t</tspan></text>
+         x="640"
+         y="1002.3622"
+         id="tspan9101">17 t</tspan></text>
     <g
        id="g11665"
        transform="matrix(0.21333333,0,0,0.21333333,616,924.36218)">
